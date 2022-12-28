@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 📫 How to reach me: zseand@hotmail.com;
-- 🌱 I’m currently learning threejs;
 - 👯 I’m looking to collaborate on serverless projects and shared networks; 
 <!--
 **zseand/zseand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
